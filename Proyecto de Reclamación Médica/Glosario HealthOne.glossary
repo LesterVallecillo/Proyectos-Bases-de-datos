@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<cwd_glossary name="DiagramaER(paso 5)" description="generated from logical model of design DiagramaER(paso 5)" id="47F7DF1C-5D1E-FC23-DD34-BE1250F024C7" case_sensitive="true" >
+
+   <glossaryWord name="ADMISIBLE" plural="ADMISIBLES" abbreviation="" alt_abbreviation="" id="AEED38E1-47B2-CD3D-9877-AF3AAF44F7E6" import_id="" description="" />
+   <glossaryWord name="AFECCION" plural="AFECCIONES" abbreviation="" alt_abbreviation="" id="FB3AF8F8-940B-A847-7F4C-59983797E9C6" import_id="" description="" />
+   <glossaryWord name="AFILIACION" plural="AFILIACIONES" abbreviation="" alt_abbreviation="" id="B45B410C-3663-5441-4F78-345B87F676BC" import_id="" description="" />
+   <glossaryWord name="AP" plural="AP" abbreviation="" alt_abbreviation="" id="E5AA10E7-B402-F6FB-C097-1DB289C14825" import_id="" description="" />
+   <glossaryWord name="ASIGNACION_AP" plural="ASIGNACIONES_AP" abbreviation="" alt_abbreviation="" id="65882CB2-93D6-D4EC-DE0A-25FE81139020" import_id="" description="" />
+   <glossaryWord name="ASISTENCIA" plural="ASISTENCIAS" abbreviation="" alt_abbreviation="" id="4E87888C-8664-5E81-CAB2-6D502769F397" import_id="" description="" />
+   <glossaryWord name="Altura" plural="Alturas" abbreviation="" alt_abbreviation="" id="8796D323-1DAB-BF96-B37C-0218D2B84C94" import_id="" description="" />
+   <glossaryWord name="CENTRO" plural="CENTROS" abbreviation="" alt_abbreviation="" id="B4ADF7DA-4AF1-B564-554F-9F5445823492" import_id="" description="" />
+   <glossaryWord name="CHO" plural="CHO" abbreviation="" alt_abbreviation="" id="E7777FA4-26CC-14AE-7F15-5582936D2440" import_id="" description="" />
+   <glossaryWord name="CONSULTA" plural="CONSULTAS" abbreviation="" alt_abbreviation="" id="6771DDCD-E77E-9CC0-D426-B3E92251AD6E" import_id="" description="" />
+   <glossaryWord name="Compañia" plural="Compañias" abbreviation="" alt_abbreviation="" id="6423D72B-3E9A-2C2E-2C03-8BD46F25AABD" import_id="" description="" />
+   <glossaryWord name="Confirmacion" plural="Confirmaciones" abbreviation="" alt_abbreviation="" id="340D5DF4-C4ED-0488-1873-AF9CEE861511" import_id="" description="" />
+   <glossaryWord name="Correo" plural="Correos" abbreviation="" alt_abbreviation="" id="4B4568B4-276D-4B38-0192-A65831DDFF56" import_id="" description="" />
+   <glossaryWord name="Descripcion" plural="Descripciones" abbreviation="" alt_abbreviation="" id="43C486C0-11DF-BAA9-D643-30F155B6FFE1" import_id="" description="" />
+   <glossaryWord name="Diagnostico" plural="Diagnosticos" abbreviation="" alt_abbreviation="" id="C1E82A7A-4417-5059-93B4-1E7D3B84A00E" import_id="" description="" />
+   <glossaryWord name="Direccion" plural="Direcciones" abbreviation="" alt_abbreviation="" id="0FAD6F30-17FB-2136-AC52-B897AE5B3B5D" import_id="" description="" />
+   <glossaryWord name="Duracion" plural="Duraciones" abbreviation="" alt_abbreviation="" id="F0403271-459B-7A69-143E-330A8E86E8D8" import_id="" description="" />
+   <glossaryWord name="ENFERMEDAD" plural="ENFERMEDADES" abbreviation="" alt_abbreviation="" id="8B1C4D9D-4BAD-F146-1776-6A65669CD714" import_id="" description="" />
+   <glossaryWord name="ESPECIALIDAD" plural="ESPECIALIDADES" abbreviation="" alt_abbreviation="" id="C413A319-4392-0248-ABF9-ACCCEB1E17AA" import_id="" description="" />
+   <glossaryWord name="EXISTENTE" plural="EXISTENTES" abbreviation="" alt_abbreviation="" id="F7A7A153-95F7-95DB-81A5-F93352362651" import_id="" description="" />
+   <glossaryWord name="Efectos" plural="Efectos" abbreviation="" alt_abbreviation="" id="A766F1B7-8514-AC30-8250-84A00DA1B2A1" import_id="" description="" />
+   <glossaryWord name="Estado" plural="Estados" abbreviation="" alt_abbreviation="" id="BBC96955-91FF-D8EA-6256-9280AF1D31C7" import_id="" description="" />
+   <glossaryWord name="Fecha" plural="Fechas" abbreviation="" alt_abbreviation="" id="BECAC61D-8934-4543-1B22-CC8413985846" import_id="" description="" />
+   <glossaryWord name="Finalidad" plural="Finalidades" abbreviation="" alt_abbreviation="" id="0FA6C88C-1BEE-5CD0-1A99-3D7C1EB75DA3" import_id="" description="" />
+   <glossaryWord name="HOSPITAL" plural="HOSPITALES" abbreviation="" alt_abbreviation="" id="1A2CF195-14CC-C297-53AF-FBB605FAD559" import_id="" description="" />
+   <glossaryWord name="Hora" plural="Horas" abbreviation="" alt_abbreviation="" id="9E621F0E-B64B-9A51-5E50-C1BAA35E4FAD" import_id="" description="" />
+   <glossaryWord name="ID" plural="ID" abbreviation="" alt_abbreviation="" id="8FB2915A-238B-6285-4AC4-0893BCB8A502" import_id="" description="" />
+   <glossaryWord name="IDAED" plural="" abbreviation="" alt_abbreviation="" id="A9017829-511C-FFF4-E3FB-8478D1740245" import_id="" description="" />
+   <glossaryWord name="IDALN" plural="" abbreviation="" alt_abbreviation="" id="3349D2E5-8E35-90D4-1D37-1DF89D45F40D" import_id="" description="" />
+   <glossaryWord name="IDCHO" plural="" abbreviation="" alt_abbreviation="" id="CB5AB749-8572-1709-1CDA-E0FDDDEA7AD8" import_id="" description="" />
+   <glossaryWord name="IDCSA" plural="" abbreviation="" alt_abbreviation="" id="581E24DD-A7E0-702C-C859-16377E6B1DE0" import_id="" description="" />
+   <glossaryWord name="IDDEE" plural="" abbreviation="" alt_abbreviation="" id="704EDEDB-2893-ABA7-FBD5-D11EBE5E0842" import_id="" description="" />
+   <glossaryWord name="IDEPD" plural="" abbreviation="" alt_abbreviation="" id="D02D9531-D758-C319-84EC-7948ACA6E201" import_id="" description="" />
+   <glossaryWord name="IDMAP" plural="" abbreviation="" alt_abbreviation="" id="50864BC0-3C91-6675-B635-308A660E83A6" import_id="" description="" />
+   <glossaryWord name="IDMDO" plural="" abbreviation="" alt_abbreviation="" id="2963E5E3-8F2B-1136-C809-49E69C1AEB8E" import_id="" description="" />
+   <glossaryWord name="IDNRE" plural="" abbreviation="" alt_abbreviation="" id="D0FF6E24-3FDA-363D-61A1-305D322CBC3B" import_id="" description="" />
+   <glossaryWord name="IDPCE" plural="" abbreviation="" alt_abbreviation="" id="858A163D-BCDA-ECE8-FD45-35CFC063AE59" import_id="" description="" />
+   <glossaryWord name="IDPMO" plural="" abbreviation="" alt_abbreviation="" id="0DEDE982-C4A8-4728-46D8-8A7C67CA392F" import_id="" description="" />
+   <glossaryWord name="IDPSO" plural="" abbreviation="" alt_abbreviation="" id="A4D6C6EC-A096-EFFE-EAA3-4B08459868C5" import_id="" description="" />
+   <glossaryWord name="IDRCA" plural="" abbreviation="" alt_abbreviation="" id="9041F134-5A78-30F4-B8AB-2869508AC253" import_id="" description="" />
+   <glossaryWord name="IDRLE" plural="" abbreviation="" alt_abbreviation="" id="39629BB9-FD57-A5FC-1575-232647DF4165" import_id="" description="" />
+   <glossaryWord name="IDRMA" plural="" abbreviation="" alt_abbreviation="" id="2EA600AC-2952-D84C-74CF-180CC7933D3A" import_id="" description="" />
+   <glossaryWord name="IDRRA" plural="" abbreviation="" alt_abbreviation="" id="422434B3-5D94-1FDC-B637-CDC28217A7F0" import_id="" description="" />
+   <glossaryWord name="IDSGO" plural="" abbreviation="" alt_abbreviation="" id="16392188-E02B-40D5-86CD-C301A14441EC" import_id="" description="" />
+   <glossaryWord name="MAP" plural="MAP" abbreviation="" alt_abbreviation="" id="9D2D59FE-36CC-5E9B-EF5F-8DCCB8905115" import_id="" description="" />
+   <glossaryWord name="MDO" plural="MDO" abbreviation="" alt_abbreviation="" id="FE1A7A7E-00B8-9344-B732-37A7B65B72E1" import_id="" description="" />
+   <glossaryWord name="MEDICA" plural="MEDICAS" abbreviation="" alt_abbreviation="" id="504722E4-9CAD-F13F-9956-8CAC152165F8" import_id="" description="" />
+   <glossaryWord name="MEDICAMENTO" plural="MEDICAMENTOS" abbreviation="" alt_abbreviation="" id="B0B83E71-B554-948E-BAE2-80A094AD7BB1" import_id="" description="" />
+   <glossaryWord name="MEDICO" plural="MEDICOS" abbreviation="" alt_abbreviation="" id="2472671A-7619-DB5A-5628-19AA14F8C209" import_id="" description="" />
+   <glossaryWord name="NO" plural="" abbreviation="" alt_abbreviation="" id="CA0CEE34-C610-7E5F-4AE8-51EE3AE28613" import_id="" description="" />
+   <glossaryWord name="Nombre" plural="Nombres" abbreviation="" alt_abbreviation="" id="1F27C5CF-A2EE-CE74-F4E0-B15709CF469D" import_id="" description="" />
+   <glossaryWord name="PK" plural="" abbreviation="" alt_abbreviation="" id="3DCF3C8B-37A4-9585-2521-7E863B6687E6" import_id="" description="" />
+   <glossaryWord name="PMO" plural="PMO" abbreviation="" alt_abbreviation="" id="FD1B5B74-3DF0-0643-E830-B0F6D41E4E0B" import_id="" description="" />
+   <glossaryWord name="PSO" plural="PSO" abbreviation="" alt_abbreviation="" id="F6C3C02A-739D-1728-E099-60FA7152B50C" import_id="" description="" />
+   <glossaryWord name="Peso" plural="Pesos" abbreviation="" alt_abbreviation="" id="7B27D1E6-1C2C-686F-3615-10ECF644AF8D" import_id="" description="" />
+   <glossaryWord name="Posologia" plural="Posologias" abbreviation="" alt_abbreviation="" id="EC14D34B-E849-50C8-916A-D02078FAD467" import_id="" description="" />
+   <glossaryWord name="Presion" plural="Presiones" abbreviation="" alt_abbreviation="" id="02419985-466E-0B89-9153-EFBEE1CC3CF5" import_id="" description="" />
+   <glossaryWord name="RECETA" plural="RECETAS" abbreviation="" alt_abbreviation="" id="F02672EE-6CA9-990E-8FE8-16AEB1666384" import_id="" description="" />
+   <glossaryWord name="RELLENABLE" plural="RELLENABLES" abbreviation="" alt_abbreviation="" id="3AE43673-5BEB-F923-6C28-81765B024813" import_id="" description="" />
+   <glossaryWord name="REVISION" plural="REVISIONES" abbreviation="" alt_abbreviation="" id="DFBE731C-A0FA-F2D2-933C-CDC4E05271C8" import_id="" description="" />
+   <glossaryWord name="RUTINA" plural="RUTINAS" abbreviation="" alt_abbreviation="" id="CFFD4C72-723C-34B8-90FC-DA02B13F8B0F" import_id="" description="" />
+   <glossaryWord name="Reclamacion" plural="Reclamaciones" abbreviation="" alt_abbreviation="" id="4D86C72D-D025-B915-5CA8-19BC76E6B3B2" import_id="" description="" />
+   <glossaryWord name="SANITARIA" plural="SANITARIAS" abbreviation="" alt_abbreviation="" id="CC9BB990-3FAC-6F26-A64F-D29DF61F5CBE" import_id="" description="" />
+   <glossaryWord name="SANITARIO" plural="SANITARIOS" abbreviation="" alt_abbreviation="" id="7AFC5385-B7D0-DEB3-64E1-8D5454A6ED78" import_id="" description="" />
+   <glossaryWord name="Tamaño" plural="Tamaños" abbreviation="" alt_abbreviation="" id="CAD7A5B4-9F8B-D64E-1ED7-13BF65484818" import_id="" description="" />
+   <glossaryWord name="Telefono" plural="Telefonos" abbreviation="" alt_abbreviation="" id="C46A5949-26BA-6EEE-4B86-44110A0428F1" import_id="" description="" />
+   <glossaryWord name="Ubicacion" plural="Ubicaciones" abbreviation="" alt_abbreviation="" id="41F8664E-F7C6-3963-17DA-9CB708AD69B7" import_id="" description="" />
+   <glossaryWord name="Y" plural="Y" abbreviation="" alt_abbreviation="" id="8132BBE3-FE09-60B0-1C2A-771BBC64E729" import_id="" description="" />
+   <glossaryWord name="de" plural="" abbreviation="" alt_abbreviation="" id="A4386905-3FEE-DF5A-31C9-0A2408D95EF3" import_id="" description="" />
+   <glossaryWord name="del" plural="" abbreviation="" alt_abbreviation="" id="3002433C-8771-A3C4-1E4C-1AFA9485FDDF" import_id="" description="" />
+   <glossaryWord name="electronico" plural="electronicos" abbreviation="" alt_abbreviation="" id="81483CB6-8353-7913-4D58-5ECD20DE1421" import_id="" description="" />
+   <glossaryWord name="entrega" plural="entregas" abbreviation="" alt_abbreviation="" id="37DEBED5-73A0-641A-0E79-C0C48F25FE01" import_id="" description="" />
+   <glossaryWord name="inicial" plural="iniciales" abbreviation="" alt_abbreviation="" id="9DF0DA3D-82F0-1829-DABB-B902893EF32D" import_id="" description="" />
+   <glossaryWord name="paciente" plural="pacientes" abbreviation="" alt_abbreviation="" id="7371C87A-BD91-7A1D-FFBD-9F3E9725E7C9" import_id="" description="" />
+   <glossaryWord name="recarga" plural="regargas" abbreviation="" alt_abbreviation="" id="AB8CA79A-703F-C4CA-4D2C-D4644F29574A" import_id="" description="" />
+   <glossaryWord name="sanguinea" plural="sanguineas" abbreviation="" alt_abbreviation="" id="21755F8B-A1B9-55B1-DDE1-5AB3274F69F9" import_id="" description="" />
+   <glossaryWord name="secundarios" plural="secundarios" abbreviation="" alt_abbreviation="" id="D3A73221-C8CB-EFE0-9BE6-FC79BFE8C449" import_id="" description="" />
+   <glossaryWord name="seguro" plural="seguros" abbreviation="" alt_abbreviation="" id="05899B64-82CE-F5CC-42DB-7C3BEB8FF6F9" import_id="" description="" />
+   <glossaryWord name="titular" plural="titulares" abbreviation="" alt_abbreviation="" id="5673BB51-D264-D384-E44C-E31B864E2AC0" import_id="" description="" />
+   <glossaryWord name="tratamiento" plural="tratamientos" abbreviation="" alt_abbreviation="" id="C9F73013-6B90-B60D-8D59-EB59685A589A" import_id="" description="" />
+   <glossaryWord name="uso" plural="usos" abbreviation="" alt_abbreviation="" id="BEAD617D-8C00-3621-03A6-D494D61070DF" import_id="" description="" />
+   <glossaryWord name="RECLAMACION" plural="RECLAMACIONES" abbreviation="" alt_abbreviation="" id="3AEFE019-C4D0-F19F-CB4F-8449EB3DF24B" import_id="" description="" />
+   <glossaryWord name="PACIENTE" plural="PACIENTES" abbreviation="" alt_abbreviation="" id="0CA343BB-7907-6FB7-77FB-EFB72B81D93E" import_id="" description="" />
+   <glossaryWord name="SEGURO" plural="SEGUROS" abbreviation="" alt_abbreviation="" id="0E781917-EB94-D38E-C00E-49D2E7804C8A" import_id="" description="" />
+   <glossaryWord name="PROVEEDOR" plural="PROVEEDORES" abbreviation="" alt_abbreviation="" id="FFCF7996-E918-4933-52DE-DD845C4C8355" import_id="" description="" />
+   <glossaryWord name="CONTACTO" plural="CONTACTOS" abbreviation="" alt_abbreviation="" id="51C7BF0B-50BF-F3CA-6B16-43A73D0AC8C5" import_id="" description="" />
+   <glossaryWord name="REVISION DE RUTINA" plural="REVISIONES DE RUTINA" abbreviation="" alt_abbreviation="" id="E51C9547-E09A-EE21-509C-F3519D27C884" import_id="" description="" />
+   <glossaryWord name="DIAGNOSTICO EXISTENTE" plural="DIAGNOSTICOS EXISTENTES" abbreviation="" alt_abbreviation="" id="407ADA3E-9245-66AB-C1EC-D1EC287965AB" import_id="" description="" />
+   <glossaryWord name="AFECCION Y ENFERMEDAD" plural="AFECCIONES Y ENFERMEDADES" abbreviation="" alt_abbreviation="" id="A81B7272-5568-20DA-E3A7-D6E3890D5077" import_id="" description="" />
+
+</cwd_glossary>

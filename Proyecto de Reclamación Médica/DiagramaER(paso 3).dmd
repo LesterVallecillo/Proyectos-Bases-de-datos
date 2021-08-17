@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="DiagramaER(paso 3)" id="830FF2FD-158E-AA2E-2FC5-A931A9F445ED" version="3.5">
+<createdBy>LesterV</createdBy>
+<createdTime>2021-06-30 00:36:06 UTC</createdTime>
+<ownerDesignName>DiagramaER(paso 1.5)</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>830FF2FD-158E-AA2E-2FC5-A931A9F445ED</designId>
+</OSDM_Design>
